@@ -1,3 +1,3 @@
 public class Main {
-    private int ages = 6;
+    private int ages = 5;
 }
